@@ -3,3 +3,6 @@ node_modules/
 
 # Exclude environment variable files
 .env
+
+# Exclude build files
+dist/
